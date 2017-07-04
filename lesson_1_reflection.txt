@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I was able to see what differences could have led to the
+    code not working anymore since, it was working originally.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If I have access to the entire history, I can see what
+    specific code makes the difference in the outputs of
+    different versions of the code that can help me in judging
+    and analyzing the code better. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically
+saved, like Google
+docs does?
+
+    When we have created a logical change in the file and it
+    requires a checkpoint to be saved. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    It might be that several different people work on different
+    modules of a program, which is basically the part of a
+    single code. In a single commit the work of these different
+    people on different modules can be saved in a single go.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git diff shows the difference between 2 files while git log 
+    would show the various changes made on the course of time
+    to a certain repository.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    version control would let me take risks confidently, even
+    if I change the whole code, I can still use the old code as
+    the running code, only when I am completely satisfied with
+    the new version I can commit. If things go wrong I can
+    always go back to my original code. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+   To code FaceDetection program and work on creating the
+   different versions for it over the course of time and try
+   all possible ideas without worrying about my going wrong. 
